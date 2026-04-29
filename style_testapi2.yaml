@@ -42,7 +42,7 @@ paths:
       x-stoplight:
         id: upkhm33q53b83
     patch:
-      summary: Update User Information
+      summary: Update User Informationssss
       operationId: patch-users-userId
       responses:
         '200':
