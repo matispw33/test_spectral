@@ -14,7 +14,7 @@ paths:
         name: userId
         in: path
         required: true
-        description: Id of an existing user2222sssmmmmss.
+        description: Id of an existing .
     get:
       summary: Get User Info by User ID
       tags: []
