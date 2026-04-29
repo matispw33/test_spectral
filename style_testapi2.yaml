@@ -46,7 +46,7 @@ paths:
       operationId: patch-users-userId
       responses:
         '200':
-          description: User Updatedssss
+          description: User Updatedssssssssssssss
           content:
             application/json:
               schema:
