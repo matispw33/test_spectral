@@ -1,0 +1,27 @@
+{
+  "name": "test_spectral",
+  "description": "",
+  "spectralExtends": [
+    "spectral:runtime"
+  ],
+  "extends": [],
+  "formats": [
+    "oas2",
+    "oas3",
+    "oas3.0",
+    "oas3.1"
+  ],
+  "aliases": {},
+  "rules": {
+    "operation-description": {
+      "id": "0vpI39yAwDPDgqDeaWpe5",
+      "given": [],
+      "severity": "error",
+      "then": {
+        "function": ""
+      },
+      "name": "operation-description"
+    }
+  },
+  "extendedDefault": false
+}
