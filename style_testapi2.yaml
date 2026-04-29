@@ -14,7 +14,7 @@ paths:
         name: userId
         in: path
         required: true
-        description: Id of an existing .
+        description: Id of an existingssssssssssssssss .
     get:
       summary: Get User Info by User ID
       tags: []
@@ -38,7 +38,7 @@ paths:
         '404':
           description: User Not Found
       operationId: get-users-userId
-      description: Retrieve the information of the user with the matching user ID_Tessssst.
+      description: Retrieve the information of the user with the matching user ID_Tet.
       x-stoplight:
         id: upkhm33q53b83
     patch:
@@ -46,7 +46,7 @@ paths:
       operationId: patch-users-userId
       responses:
         '200':
-          description: User Updatedssss
+          description: User Updatedssssssssssssss
           content:
             application/json:
               schema:
