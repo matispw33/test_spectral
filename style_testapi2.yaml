@@ -38,7 +38,7 @@ paths:
         '404':
           description: User Not Found
       operationId: get-users-userId
-      description: Retrieve the information of the user with the matching user ID_Tesssssst.
+      description: Retrieve the information of the user with the matching usesssssssr ID_Tesssssst.
       x-stoplight:
         id: upkhm33q53b83
     patch:
